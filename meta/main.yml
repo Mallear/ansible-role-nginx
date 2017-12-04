@@ -13,7 +13,7 @@ galaxy_info:
   - name: Amazon Linux
     version:
     - all
-  categories:
+  galaxy_tags:
   - development
   - web
 
