@@ -18,6 +18,6 @@ galaxy_info:
   - web
 
 dependencies:
-  - role: ansible-role-yum
+  - role: Mallear.yum
     yum_install_packages: [nginx]
     become: yes
